@@ -21,7 +21,7 @@
 ## 🌐 Live Report
 
 View the full SAS demo report (with tables and plots) here:\
-👉 [Visit Tracker Report](https://USERNAME.github.io/visit-tracker/)
+👉 [Visit Tracker Report](docs/index.html)
 
 ## ⚙️ Macro Parameters
 
