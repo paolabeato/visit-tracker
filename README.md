@@ -21,7 +21,7 @@
 ## 🌐 Live Report
 
 View the full SAS demo report (with tables and plots) here:\
-👉 [Visit Tracker Report]([docs/index.html](https://paolabeato.github.io/visit-tracker/))
+👉 [Visit Tracker Report](https://paolabeato.github.io/visit-tracker/)
 
 ## ⚙️ Macro Parameters
 
@@ -115,13 +115,11 @@ proc print data=vt_summary; run;
 
 This repo includes **synthetic examples** to illustrate use cases:
 
-
-
--   [**Example 1 — Semiannual visits for 18 months**]([docs/index.html#ex1](https://paolabeato.github.io/visit-tracker/))
--   [**Example 2 — Dense early schedule (Day 7, Day 14, etc.)**]([docs/index.html#ex2](https://paolabeato.github.io/visit-tracker/))
--   [**Example 3 — Per-ID lookup schedule with custom names**]([docs/index.html#ex3](https://paolabeato.github.io/visit-tracker/))
--   [**Example 4 — Asymmetric post-window (LAG policy)**]([docs/index.html#ex4](https://paolabeato.github.io/visit-tracker/))
--   [**Example 5 — Weekly follow-ups (8 weeks)**]([docs/index.html#ex5](https://paolabeato.github.io/visit-tracker/))
+- [**Example 1 — Semiannual visits for 18 months**](https://paolabeato.github.io/visit-tracker/#ex1)
+- [**Example 2 — Dense early schedule (Day 7, Day 14, etc.)**](https://paolabeato.github.io/visit-tracker/#ex2)
+- [**Example 3 — Per-ID lookup schedule with custom names**](https://paolabeato.github.io/visit-tracker/#ex3)
+- [**Example 4 — Asymmetric post-window (LAG policy)**](https://paolabeato.github.io/visit-tracker/#ex4)
+- [**Example 5 — Weekly follow-ups (8 weeks)**](https://paolabeato.github.io/visit-tracker/#ex5)
 
 Each demo script produces a sample dataset, runs the macro, and prints/plots the outputs.
 
