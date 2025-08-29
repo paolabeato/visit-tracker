@@ -1,0 +1,44 @@
+# ---- SAS temporary and log files ----
+*.log
+*.lst
+*.sas7bdat
+*.sas7bcat
+*.sas7bvew
+*.sas7bndx
+*.sas7bmdb
+*.sas7bpgm
+*.sas7bcd
+*.sas7bgen
+*.sas7bitm
+*.sas7bbak
+
+# EG / Studio backup files
+*.egp~
+*.sas~ 
+*.bak
+
+# ---- System files ----
+.DS_Store
+Thumbs.db
+
+# ---- Output artifacts ----
+/docs/*.png
+/docs/*.pdf
+/docs/*.rtf
+/docs/*.xlsx
+/docs/*.csv
+
+# Keep only the main HTML report
+/docs/*.html
+!/docs/index.html   # live demo entry point
+
+# ---- SAS WORK / tmp ----
+*.tmp
+.sas_cache/
+work/
+
+# ---- VSCode / IDE / project settings ----
+.vscode/
+.idea/
+*.swp
+*.swo
