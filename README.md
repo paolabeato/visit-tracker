@@ -147,9 +147,14 @@ proc sgplot data=vt_summary_overall;
 run;
 ```
 
-## 📜 License
+## Availability
 
-MIT License — feel free to use, modify, and share.
+The visit tracking macro was developed by Outlier Analytics LLC to support longitudinal research and program evaluation.  
+Because this framework is proprietary, the full source code is not publicly available.  
+
+Custom implementations and adaptations can be made available **upon request through Outlier Analytics LLC**.  
+📩 Contact: info@outlieranalytics.info
+🌐 [outlieranalytics.info](https://outlieranalytics.info)
 
 ## 🙌 Acknowledgments
 
