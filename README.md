@@ -153,7 +153,9 @@ The visit tracking macro was developed by Outlier Analytics LLC to support longi
 Because this framework is proprietary, the full source code is not publicly available.  
 
 Custom implementations and adaptations can be made available **upon request through Outlier Analytics LLC**.  
-📩 Contact: info@outlieranalytics.info
+
+## Contact
+📩 info@outlieranalytics.info
 🌐 [outlieranalytics.info](https://outlieranalytics.info)
 
 ## 🙌 Acknowledgments
